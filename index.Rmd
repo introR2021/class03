@@ -1,5 +1,5 @@
 ---
-title: "RMarkdown"
+title: "Limpando e organizando dados"
 subtitle: "Encontro Síncrono 03"
 author: 
   - <br></br>Renata Oliveira e Lucélia Vaz
@@ -816,8 +816,8 @@ class: middle
 
 # Atividades em classe
 
-1. [Lab 3.1]
-2. [Lab 3.2]
+1. [Lab 3.1](https://www.places.education/disciplinas/intror_master/lab31/)
+2. [Lab 3.2](https://www.places.education/disciplinas/intror_master/lab32/)
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 library(countdown)
