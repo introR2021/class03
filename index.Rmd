@@ -828,11 +828,11 @@ countdown(minutes = 60, seconds = 00, play_sound = TRUE)
 ```
 
 ---
-# Atividades
+# Atividades para próxima semana
 
-1. Xaringan e Xaringan Themer
-2. Atividade 3 e Tutoriais 1 e 2 
+Atividade 4
 
+---
 
 class: middle, center
 
